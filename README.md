@@ -23,7 +23,7 @@ Dollar Impact: +$9.3B in additional annual returns on $270B AUM
 
 🔧 Skills Demonstrated:
 
--SQL querying — pulling and aggregating financial data from a structured database
+- SQL querying — pulling and aggregating financial data from a structured database
 - Quantitative analysis — Sharpe Ratio calculation, annualized returns, volatility modeling
 - Business storytelling — translating raw numbers into a clear, executive-ready recommendation
 - Presentation under pressure — project delivered under a strict time constraint to simulate a real client deadline
